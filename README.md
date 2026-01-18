@@ -1,4 +1,13 @@
-Title: Hello World Python program
+NAME: IGBINOSA OLIVIA OSARUGWE
+
+DEPARTMENT: COMPUTER SCIENCE
+
+COURSE: SEN 201
+
+MATRIC NUMBER: 24/14072
+
+
+TITLE: Hello World Python program
 
 Overview: this is a simple python code that prints " Hello, World! " to the console
 
